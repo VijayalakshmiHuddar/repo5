@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5082-62AD
+
+ Directory of C:\Users\Vijayalakshmi Huddar\Desktop\newproj
+
+30-03-2019  18:20    <DIR>          .
+30-03-2019  18:20    <DIR>          ..
+30-03-2019  18:20                 0 new.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  330,574,278,656 bytes free
